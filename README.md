@@ -51,9 +51,12 @@ I also love exploring new technologies 💻, especially in web development, and 
 </p>
 <p align="left">
   <a href="mailto:yaraessameldindd@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yara gmail" height="30" width="40" />
+    <img align="center" 
+         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         alt="yara gmail" height="30" width="40" />
   </a>
 </p>
+
 <br>
 
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
