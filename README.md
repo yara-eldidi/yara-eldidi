@@ -58,21 +58,21 @@ I also love exploring new technologies 💻, especially in web development, and 
 - Frontend  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
   </a>
 </p>
 
-- Database  
+<!-- - Database  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
-</p>
+</p> -->
 
 - Tools  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
   </a>
 </p>
 
@@ -91,7 +91,7 @@ I also love exploring new technologies 💻, especially in web development, and 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
-<br><br><br>
+<br><br>
 
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
