@@ -47,7 +47,12 @@ I also love exploring new technologies 💻, especially in web development, and 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yara-eldidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yara-eldidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yara linkedin" height="30" width="40" /></a>
+</p>
+<p align="left">
+  <a href="mailto:yaraessameldindd@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yara gmail" height="30" width="40" />
+  </a>
 </p>
 <br>
 
@@ -58,7 +63,7 @@ I also love exploring new technologies 💻, especially in web development, and 
 - Frontend  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
 
