@@ -29,7 +29,7 @@ I also love exploring new technologies 💻, especially in web development, and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="images/1_uYkZXXw-QL-N_1gVndPH9A.gif">
+<img align="right" alt="Coding" width="400" src="images/0_sXYHTGwG8Qqof6ck.gif">
 <br><br>
 
 - 🔭 I’m currently open to new opportunities in Front-End Development
