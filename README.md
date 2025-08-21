@@ -30,7 +30,7 @@ I also love exploring new technologies 💻, especially in web development, and 
 </div>
 <br> <br>
 <img align="right" alt="Coding" width="400" src="images/0_sXYHTGwG8Qqof6ck.gif">
-<br><br>
+
 
 - 🔭 I’m currently open to new opportunities in Front-End Development
 
