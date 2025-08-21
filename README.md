@@ -29,20 +29,18 @@ I also love exploring new technologies 💻, especially in web development, and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="images/0_sXYHTGwG8Qqof6ck.gif">
-<br><br>
+<div style="display: flex; align-items: flex-start;">
+  <ul>
+    <li>🔭 I’m currently open to new opportunities in Front-End Development</li>
+    <li>🌱 I’m currently learning <b>React, TypeScript, and Docker</b></li>
+    <li>👩‍💻 Some of my projects are available here on my GitHub</li>
+    <li>💬 Ask me about <b>HTML, CSS, JavaScript, and React</b></li>
+    <li>📫 How to reach me <b>yaraessameldindd@gmail.com</b></li>
+    <li>⚡ fact: I enjoy exploring new tech tools and turning ideas into real projects ✨</li>
+  </ul>
 
-- 🔭 I’m currently open to new opportunities in Front-End Development
-
-- 🌱 I’m currently learning **React, TypeScript, and Docker**
-
-- 👩‍💻 Some of my projects are available here on my GitHub
-
-- 💬 Ask me about **HTML, CSS, JavaScript, and React**
-
-- 📫 How to reach me **yaraessameldindd@gmail.com**
-
-- ⚡ fact: I enjoy exploring new tech tools and turning ideas into real projects ✨
+  <img alt="Coding" width="400" src="images/0_sXYHTGwG8Qqof6ck.gif">
+</div>
 
 <br>
 <h3 align="left">Connect with me:</h3>
