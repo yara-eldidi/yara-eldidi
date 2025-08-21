@@ -28,29 +28,21 @@ I also love exploring new technologies 💻, especially in web development, and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" />
 </div>
+<br> <br>
+<img align="right" alt="Coding" width="400" src="images/0_sXYHTGwG8Qqof6ck.gif">
+<br><br>
 
-<div style="display: flex; align-items: center;">
-  <!-- الجزء الخاص بالليست -->
-  <div style="flex: 1;">
-    <br><br>
-    - 🔭 I’m currently open to new opportunities in Front-End Development
-    <br><br>
-    - 🌱 I’m currently learning <b>React, TypeScript, and Docker</b>
-    <br><br>
-    - 👩‍💻 Some of my projects are available here on my GitHub
-    <br><br>
-    - 💬 Ask me about <b>HTML, CSS, JavaScript, and React</b>
-    <br><br>
-    - 📫 How to reach me <b>yaraessameldindd@gmail.com</b>
-    <br><br>
-    - ⚡ fact: I enjoy exploring new tech tools and turning ideas into real projects ✨
-  </div>
+- 🔭 I’m currently open to new opportunities in Front-End Development
 
-  <!-- الجزء الخاص بالصورة -->
-  <div>
-    <img src="images/0_sXYHTGwG8Qqof6ck.gif" alt="Coding" width="400">
-  </div>
-</div>
+- 🌱 I’m currently learning **React, TypeScript, and Docker**
+
+- 👩‍💻 Some of my projects are available here on my GitHub
+
+- 💬 Ask me about **HTML, CSS, JavaScript, and React**
+
+- 📫 How to reach me **yaraessameldindd@gmail.com**
+
+- ⚡ fact: I enjoy exploring new tech tools and turning ideas into real projects ✨
 
 <br>
 <h3 align="left">Connect with me:</h3>
